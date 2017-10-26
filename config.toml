@@ -1,5 +1,5 @@
 # Site settings
-baseurl = ""
+baseurl = "https://nwaogwugwu.netlify.com"
 languageCode = "en-us"
 title = "Jennifer Nwaogwugwu"
 theme = "hugo-freelancer-theme"
