@@ -38,7 +38,7 @@ theme = "hugo-freelancer-theme"
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "profile.png"
+        image = "pickleportrait.jpg"
         name = "Jennifer Nwaogwugwu"
         subtitle = "Researcher - Designer"
 
