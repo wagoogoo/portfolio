@@ -79,6 +79,11 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
+.name-logo-size {
+  width: 150px !important;
+  height: 150px !important; 
+}
+
 header {
     text-align: center;
     color: #fff;

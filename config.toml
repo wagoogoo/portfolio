@@ -12,6 +12,7 @@ theme = "hugo-freelancer-theme"
 
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
+
     name = "Jennifer Nwaogwugwu"
     description = "UX Design and Information Architecture"
 
@@ -38,8 +39,9 @@ theme = "hugo-freelancer-theme"
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "pickleportrait.jpg"
-        name = "Jennifer Nwaogwugwu"
+        image = "logo2.png"
+        first_name = "Jennifer"
+        last_name = "Nwaogwugwu"
         subtitle = "Researcher - Designer"
 
 
@@ -60,8 +62,8 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About"
         # The about text is splitted into a left and right column
-        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
-        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+        left = "I am a first year Master of Science student in Information Studies student at the iSchool at the renown University of Texas at Austin. My focus is UX design, and I hope to gain more experience in Information Architecture and Interaction Design."
+        right = "If I'm not at school, you can catch me reading Lord of the Rings, playing my guitar, or volunteering in my campus ministry in my church at UT. Please shoot me a message to touch!"
 
         [params.about.button]
             text = "Download theme"
