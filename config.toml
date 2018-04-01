@@ -65,10 +65,10 @@ theme = "hugo-freelancer-theme"
         left = "I am a first year Master of Science student in Information Studies student at the iSchool at the renown University of Texas at Austin. My focus is UX design, and I hope to gain more experience in Information Architecture and Interaction Design."
         right = "If I'm not at school, you can catch me reading Lord of the Rings, playing my guitar, or volunteering in my campus ministry in my church at UT. Please shoot me a message to touch!"
 
-        [params.about.button]
-            text = "Download theme"
-            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
-            icon = "download"
+        # [params.about.button]
+        #     text = "Download theme"
+        #     link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
+        #     icon = "download"
 
 
     [params.contact]
@@ -98,25 +98,25 @@ theme = "hugo-freelancer-theme"
     [params.footer]
         copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
 
-        [params.footer.location]
-            title = "Location"
-            # Postal address (add as many lines as necessary)
-            address = ["3481 Melrose Place", "Beverly Hills, CA 90210"]
+        # [params.footer.location]
+        #     title = "Location"
+        #     # Postal address (add as many lines as necessary)
+        #     address = ["Austin, Texas"]
 
         [params.footer.social]
-            title = "Around the web"
+            title = "Connect on Linkedin"
             # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
             # for more icons. The icons are represented by their corresponding
             # CSS class.
             [[params.footer.social.networks]]
-                icon = "fa-github"
-                link = "//github.com/spf13/hugo"
+                icon = "fa-linkedin-square"
+                link = "//linkedin.com/in/jennifer-nwaogwugwu-472b5072"
 
-            [[params.footer.social.networks]]
-                icon = "fa-stack-overflow"
-                link=  "//stackoverflow.com/questions/tagged/hugo"
+            # [[params.footer.social.networks]]
+            #     icon = "fa-stack-overflow"
+            #     link=  "//stackoverflow.com/questions/tagged/hugo"
 
 
-        [params.footer.credits]
-            title = "About Freelancer"
-            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
+        # [params.footer.credits]
+        #     title = "About Freelancer"
+        #     text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."

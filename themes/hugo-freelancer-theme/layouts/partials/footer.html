@@ -3,7 +3,7 @@
     <div class="footer-above">
         <div class="container">
             <div class="row">
-                <div class="footer-col col-md-4">
+                <!-- <div class="footer-col col-md-4 col-md-offset-2">
                     <h3>{{ with .Site.Params.footer.location.title }}{{.}}{{ end }}</h3>
 
                     {{ with .Site.Params.footer.location.address }}
@@ -14,8 +14,8 @@
                             {{ end }}
                         </p>
                     {{ end }}
-                </div>
-                <div class="footer-col col-md-4">
+                </div> -->
+                <div class="footer-col col-md-12">
                     <h3>{{ with .Site.Params.footer.social.title }}{{.}}{{ end }}</h3>
                     <ul class="list-inline">
                         {{ range .Site.Params.footer.social.networks }}
@@ -25,10 +25,10 @@
                         {{ end }}
                     </ul>
                 </div>
-                <div class="footer-col col-md-4">
+                <!-- <div class="footer-col col-md-4">
                     <h3>{{ with .Site.Params.footer.credits.title }}{{.}}{{ end }}</h3>
                     <p>{{ with .Site.Params.footer.credits.text }}{{ . | markdownify }}{{ end }}</p>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
