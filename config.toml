@@ -65,10 +65,10 @@ theme = "hugo-freelancer-theme"
         left = "I am a first year Master of Science student in Information Studies student at the iSchool at the renown University of Texas at Austin. My focus is UX design, and I hope to gain more experience in Information Architecture and Interaction Design."
         right = "If I'm not at school, you can catch me reading Lord of the Rings, playing my guitar, or volunteering in my campus ministry in my church at UT. Please shoot me a message to touch!"
 
-        # [params.about.button]
-        #     text = "Download theme"
-        #     link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
-        #     icon = "download"
+        [params.about.button]
+            text = "Download theme"
+            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
+            icon = "download"
 
 
     [params.contact]
@@ -98,10 +98,10 @@ theme = "hugo-freelancer-theme"
     [params.footer]
         copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
 
-        # [params.footer.location]
-        #     title = "Location"
-        #     # Postal address (add as many lines as necessary)
-        #     address = ["Austin, Texas"]
+        [params.footer.location]
+            title = "Location"
+            # Postal address (add as many lines as necessary)
+            address = ["Austin, Texas"]
 
         [params.footer.social]
             title = "Connect on Linkedin"
@@ -112,9 +112,9 @@ theme = "hugo-freelancer-theme"
                 icon = "fa-linkedin-square"
                 link = "//linkedin.com/in/jennifer-nwaogwugwu-472b5072"
 
-            # [[params.footer.social.networks]]
-            #     icon = "fa-stack-overflow"
-            #     link=  "//stackoverflow.com/questions/tagged/hugo"
+            [[params.footer.social.networks]]
+                icon = "fa-stack-overflow"
+                link=  "//stackoverflow.com/questions/tagged/hugo"
 
 
         # [params.footer.credits]
