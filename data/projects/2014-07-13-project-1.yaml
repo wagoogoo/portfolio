@@ -1,9 +1,9 @@
 modalID: 1
-title:
-date: 2018-03-31
+title: Python Thing
+date: 2014-07-13
 img: LMPortfolio.png
 modal_img: LM_modalimg.png
-# client: Start Bootstrap
-# clientLink: "#"
-# category: Web Development
-# description: Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons](//sellfy.com/p/8Q9P/jV3VZ/"). On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12! blah blah blah blah
+client: Start Bootstrap
+clientLink: "#"
+category: Web Development
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons](//sellfy.com/p/8Q9P/jV3VZ/"). On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12! blah blah blah blah
